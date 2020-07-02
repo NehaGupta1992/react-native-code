@@ -1,0 +1,12 @@
+{
+  "name": "tagit_android_app",
+  "displayName": "tagit_android_app",
+  "expo": {
+    "name": "tagit_android_app",
+    "slug": "tagit_android_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
